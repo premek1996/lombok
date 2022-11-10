@@ -1,6 +1,6 @@
 # lombok
 
-# PODSTAWY
+## PODSTAWY
 
 Podstawowe Adnotacje
 
@@ -12,7 +12,7 @@ Value
 
 With
 
-# ZAAWANSOWANE
+## ZAAWANSOWANE
 
 SneakyThrows
 
